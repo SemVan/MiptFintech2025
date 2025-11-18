@@ -1,0 +1,101 @@
+id,name,age,gender,diagnosis,treatment,treatment_cost,treatment_date
+1,John Doe,45,Male,Hypertension,Medication,150.50,2023-01-15
+2,Jane Smith,34,Female,Asthma,Inhaler,200.00,2023-02-10
+3,Alice Johnson,29,Female,Migraine,Medication,120.75,2023-03-05
+4,Bob Brown,56,Male,Diabetes,Insulin,300.00,2023-04-20
+5,Charlie Davis,40,Male,Arthritis,Physical Therapy,250.00,2023-05-12
+6,Eva Green,22,Female,Anxiety,Therapy,180.00,2023-06-18
+7,Frank Wilson,60,Male,Heart Disease,Surgery,5000.00,2023-07-22
+8,Grace Hall,33,Female,Depression,Medication,150.00,2023-08-30
+9,Henry Adams,50,Male,High Cholesterol,Diet Plan,100.00,2023-09-14
+10,Ivy Lee,27,Female,Allergies,Antihistamines,75.00,2023-10-05
+11,Jack White,38,Male,Hypertension,Medication,160.00,2023-01-20
+12,Karen Brown,42,Female,Asthma,Inhaler,210.00,2023-02-15
+13,Liam Johnson,31,Male,Migraine,Medication,130.00,2023-03-10
+14,Mia Davis,28,Female,Diabetes,Insulin,310.00,2023-04-25
+15,Noah Wilson,47,Male,Arthritis,Physical Therapy,260.00,2023-05-15
+16,Olivia Hall,25,Female,Anxiety,Therapy,190.00,2023-06-20
+17,William Lee,55,Male,Heart Disease,Surgery,5100.00,2023-07-25
+18,Sophia Adams,30,Female,Depression,Medication,160.00,2023-08-31
+19,James Green,52,Male,High Cholesterol,Diet Plan,110.00,2023-09-16
+20,Emma Brown,26,Female,Allergies,Antihistamines,80.00,2023-10-10
+21,Oliver Smith,39,Male,Hypertension,Medication,170.00,2023-01-25
+22,Ava Johnson,36,Female,Asthma,Inhaler,220.00,2023-02-20
+23,Elijah Davis,32,Male,Migraine,Medication,140.00,2023-03-15
+24,Charlotte Wilson,29,Female,Diabetes,Insulin,320.00,2023-04-30
+25,Michael Hall,48,Male,Arthritis,Physical Therapy,270.00,2023-05-20
+26,Amelia Lee,24,Female,Anxiety,Therapy,200.00,2023-06-25
+27,Benjamin Adams,57,Male,Heart Disease,Surgery,5200.00,2023-07-30
+28,Harper Green,35,Female,Depression,Medication,170.00,2023-08-31
+29,Daniel Brown,53,Male,High Cholesterol,Diet Plan,120.00,2023-09-18
+30,Evelyn Smith,27,Female,Allergies,Antihistamines,85.00,2023-10-15
+31,Logan Johnson,41,Male,Hypertension,Medication,180.00,2023-01-30
+32,Abigail Davis,37,Female,Asthma,Inhaler,230.00,2023-02-25
+33,Matthew Wilson,33,Male,Migraine,Medication,150.00,2023-03-20
+34,Elizabeth Hall,30,Female,Diabetes,Insulin,330.00,2023-05-01
+35,Alexander Lee,49,Male,Arthritis,Physical Therapy,280.00,2023-05-25
+36,Sofia Adams,23,Female,Anxiety,Therapy,210.00,2023-06-30
+37,Joseph Green,58,Male,Heart Disease,Surgery,5300.00,2023-08-01
+38,Emily Brown,34,Female,Depression,Medication,180.00,2023-08-31
+39,David Smith,54,Male,High Cholesterol,Diet Plan,130.00,2023-09-20
+40,Madison Johnson,28,Female,Allergies,Antihistamines,90.00,2023-10-20
+41,Samuel Davis,43,Male,Hypertension,Medication,190.00,2023-02-01
+42,Scarlett Wilson,38,Female,Asthma,Inhaler,240.00,2023-02-28
+43,Jackson Hall,35,Male,Migraine,Medication,160.00,2023-03-25
+44,Avery Lee,31,Female,Diabetes,Insulin,340.00,2023-05-05
+45,Josephine Adams,50,Male,Arthritis,Physical Therapy,290.00,2023-05-30
+46,Samuel Green,22,Female,Anxiety,Therapy,220.00,2023-07-01
+47,Henry Brown,59,Male,Heart Disease,Surgery,5400.00,2023-08-05
+48,Victoria Smith,36,Female,Depression,Medication,190.00,2023-08-31
+49,Andrew Johnson,55,Male,High Cholesterol,Diet Plan,140.00,2023-09-22
+50,Chloe Davis,29,Female,Allergies,Antihistamines,95.00,2023-10-25
+51,Christopher Wilson,44,Male,Hypertension,Medication,200.00,2023-02-05
+52,Grace Hall,39,Female,Asthma,Inhaler,250.00,2023-03-01
+53,Anthony Lee,36,Male,Migraine,Medication,170.00,2023-03-30
+54,Zoey Adams,32,Female,Diabetes,Insulin,350.00,2023-05-10
+55,Isaac Green,51,Male,Arthritis,Physical Therapy,300.00,2023-06-01
+56,Lily Brown,21,Female,Anxiety,Therapy,230.00,2023-07-05
+57,Jack Smith,60,Male,Heart Disease,Surgery,5500.00,2023-08-10
+58,Addison Johnson,37,Female,Depression,Medication,200.00,2023-08-31
+59,Luke Davis,56,Male,High Cholesterol,Diet Plan,150.00,2023-09-24
+60,Ella Wilson,30,Female,Allergies,Antihistamines,100.00,2023-10-30
+61,Christopher Hall,45,Male,Hypertension,Medication,210.00,2023-02-10
+62,Aubrey Lee,40,Female,Asthma,Inhaler,260.00,2023-03-05
+63,Julian Adams,37,Male,Migraine,Medication,180.00,2023-03-31
+64,Penelope Green,33,Female,Diabetes,Insulin,360.00,2023-05-15
+65,Levi Brown,52,Male,Arthritis,Physical Therapy,310.00,2023-06-05
+66,Hannah Smith,22,Female,Anxiety,Therapy,240.00,2023-07-10
+67,Christopher Wilson,61,Male,Heart Disease,Surgery,5600.00,2023-08-15
+68,Elizabeth Hall,38,Female,Depression,Medication,210.00,2023-08-31
+69,Daniel Johnson,57,Male,High Cholesterol,Diet Plan,160.00,2023-09-26
+70,Scarlett Davis,31,Female,Allergies,Antihistamines,105.00,2023-11-01
+71,Andrew Wilson,46,Male,Hypertension,Medication,220.00,2023-02-15
+72,Victoria Lee,41,Female,Asthma,Inhaler,270.00,2023-03-10
+73,David Adams,38,Male,Migraine,Medication,190.00,2023-04-01
+74,Madison Green,34,Female,Diabetes,Insulin,370.00,2023-05-20
+75,Joseph Brown,53,Male,Arthritis,Physical Therapy,320.00,2023-06-10
+76,Chloe Smith,23,Female,Anxiety,Therapy,250.00,2023-07-15
+77,Christopher Hall,62,Male,Heart Disease,Surgery,5700.00,2023-08-20
+78,Addison Johnson,39,Female,Depression,Medication,220.00,2023-08-31
+79,Samuel Davis,58,Male,High Cholesterol,Diet Plan,170.00,2023-09-28
+80,Ella Wilson,32,Female,Allergies,Antihistamines,110.00,2023-11-05
+81,Andrew Green,47,Male,Hypertension,Medication,230.00,2023-02-20
+82,Scarlett Adams,42,Female,Asthma,Inhaler,280.00,2023-03-15
+83,Julian Lee,39,Male,Migraine,Medication,200.00,2023-04-05
+84,Penelope Brown,35,Female,Diabetes,Insulin,380.00,2023-05-25
+85,Levi Smith,54,Male,Arthritis,Physical Therapy,330.00,2023-06-15
+86,Hannah Hall,24,Female,Anxiety,Therapy,260.00,2023-07-20
+87,Christopher Wilson,63,Male,Heart Disease,Surgery,5800.00,2023-08-25
+88,Elizabeth Johnson,40,Female,Depression,Medication,230.00,2023-08-31
+89,Daniel Davis,59,Male,High Cholesterol,Diet Plan,180.00,2023-09-30
+90,Scarlett Green,33,Female,Allergies,Antihistamines,115.00,2023-11-10
+91,Andrew Adams,48,Male,Hypertension,Medication,240.00,2023-02-25
+92,Victoria Lee,43,Female,Asthma,Inhaler,290.00,2023-03-20
+93,David Brown,40,Male,Migraine,Medication,210.00,2023-04-10
+94,Madison Smith,36,Female,Diabetes,Insulin,390.00,2023-05-30
+95,Joseph Hall,55,Male,Arthritis,Physical Therapy,340.00,2023-06-20
+96,Chloe Wilson,25,Female,Anxiety,Therapy,270.00,2023-07-25
+97,Christopher Green,64,Male,Heart Disease,Surgery,5900.00,2023-08-30
+98,Addison Johnson,41,Female,Depression,Medication,240.00,2023-08-31
+99,Samuel Davis,60,Male,High Cholesterol,Diet Plan,190.00,2023-09-30
+100,Ella Brown,34,Female,Allergies,Antihistamines,120.00,2023-11-15
